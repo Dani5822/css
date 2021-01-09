@@ -1,0 +1,9 @@
+h1  { position: absolute; left: 325px; height: 100px; text-align: center; width: 55%; background-image: url("fejlec.jpg"); background-position: center;
+}
+body  {
+    background-image: url("hatter.jpg");
+  }
+.szoveg {max-width: 38%; position: absolute; left: 557px; top: 108px; color: #484848; background-color: #ffffff; background-image: url(tartalomkep.jpg);}
+.tartalom {background-color: #e8e8e8; color: #800000 ;  position: absolute; left: 325px; width: 232px; top:108px; height: 426px; text-indent: 30px;}
+.adat {color: #800000 ;  position: absolute; left: 390px; width: 130px; top:150px; height: 426px;}
+.kep {position: absolute;left: 325px; width: 232px;top: 410px;}
